@@ -15,11 +15,10 @@
 - 🧱 HTML5 / CSS3 / JavaScript
 - ⚛️ Currently learning React
 - 🖥️ Node.js + Express.js in progress
-- 🌐 Basics of RESTful APIs and web servers
 
 ## 📫 Connect With Me
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](ayasear23@gmail.com)
 - 🌍 Portfolio (soon!)
 
 <!-- You can add more links here like LinkedIn, Twitter, etc. -->
