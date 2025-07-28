@@ -19,24 +19,22 @@
 
 ## Tech Stack
 
-- **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), React (basics)
+- **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), React (basics)(learinig)
 - **Backend (learning):** Node.js, Express
-- **Tools:** Git & GitHub, VS Code, npm
-- **Other:** REST APIs, JSON, AJAX, Responsive Design
+- **Tools:** Git & GitHub
+- **Other:** JSON, AJAX, Responsive Design
 
 ## Featured Projects
 
-- 🛒 **Mini E-Commerce (JS)** — Product list from JSON, cart, localStorage  
-  _Repo:_ ⟪link⟫ • _Demo:_ ⟪link⟫
+
 - 🧩 **Quiz App (AJAX + Timer)** — Fetch questions from JSON, score & timer reset  
   _Repo:_ ⟪link⟫ • _Demo:_ ⟪link⟫
-- 🖼️ **Image Gallery (Grid + Hover Effects)** — Smooth animations & captions  
-  _Repo:_ ⟪link⟫ • _Demo:_ ⟪link⟫
+
 
 ## What I’m Up To
 
 - 🔧 Improving JS fundamentals & patterns  
-- 🌐 Building small projects to sharpen DOM, Fetch, and async handling  
+- 🌐 Building small projects to sharpen DOM, Fetch 
 - ✍️ Documenting learnings and snippets
 
 ## Get in Touch
