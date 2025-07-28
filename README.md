@@ -14,18 +14,17 @@
 
 - 🧱 HTML5 / CSS3 / JavaScript
 - ⚛️ Currently learning React
-- 🖥️ Node.js + Express.js in progress
+- 🖥️ Learning backend development (Node.js + Express.js)
+- 🌐 Basics of RESTful APIs and web servers
 
 ## 📫 Connect With Me
 
-- 📧 Email: [your-email@example.com](ayasear23@gmail.com)
-- 🌍 Portfolio (soon!)
-
-<!-- You can add more links here like LinkedIn, Twitter, etc. -->
+- 📧 Email: [ayasear23@gmail.com](mailto:ayasear23@gmail.com)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 
 
 <!-- لو بتستخدم WakaTime احذف التعليق وحط اليوزر -->
